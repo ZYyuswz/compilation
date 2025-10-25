@@ -1,10 +1,10 @@
-# Assignment 1 Helloworld
+# homework 1 Helloworld
 
 ## 传统编译方式
 
 ### 环境配置
 
-1. 安装 [DOSBox](https://www.dosbox.com)，在 DOSBox 的安装目录下打开 DOSBox 0.74 Options.bat Windows 批处理文件，在打开的 dosbox-0.74.conf 配置文件的末尾添加如下内容，并保存。这些配置使得 DOSBox 启动后，直接挂载并进入 D:\My_Projects\Assembly_Language_Course_Assignments\ASM_Tools 文件夹，方便用户在该目录下执行汇编工具或文件。
+1. 安装 [DOSBox](https://www.dosbox.com)，在 DOSBox 的安装目录下打开 DOSBox 0.74 Options.bat Windows 批处理文件，在打开的 dosbox-0.74.conf 配置文件的末尾添加如下内容，并保存。这些配置使得 DOSBox 启动后，直接挂载并进入 D:\GitHubZY\compilation\asm_tools 文件夹，方便用户在该目录下执行汇编工具或文件。
 
 ```
 [autoexec]
