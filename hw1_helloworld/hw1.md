@@ -62,11 +62,11 @@ END START                                   ; 标记程序结束，START是入�
 
 4. 执行命令 `hello`，执行可执行程序。
 
-![](source_picture\hw101.png)
+![](source_picture/hw101.png)
 
 5. 执行命令 `debug hello.exe`，再使用 `-u` 命令，可以反汇编可执行文件的机器代码，逐条显示汇编指令。
 
-![](source_picture\hw102.png)
+![](source_picture/hw102.png)
 
 ### 反汇编结果分析
 
