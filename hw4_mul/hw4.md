@@ -109,7 +109,7 @@ END START                  ; 程序结束，入口为START
 
 对应C语言为：
 
-![](source_image/hw403.png")
+![](source_image/hw403.png)
 
 反汇编代码及注释为：
 
