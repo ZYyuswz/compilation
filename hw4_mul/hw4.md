@@ -4,7 +4,7 @@
 
 程序执行结果：
 
-![](source_image/hw401.png")
+![](source_image/hw401.png)
 
 汇编代码如下：
 
